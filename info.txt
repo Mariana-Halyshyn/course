@@ -1,0 +1,11 @@
+Smartphone USB 45 1 500 6 1 600 A smartphone that combines a sophisticated design and high durability thanks to the use of glass and aviation aluminum.
+Monitor HDMI 60 3 24 1 920 2024 Gaming monitor, delivering high-quality images and smooth gameplay.
+MediaPlayer HDMI 1 300 2 320 Compact media player stick that provides access to thousands of apps and supports 4K HDR streaming.
+Projector DVI 300 2 250 800 Portable LED projector from 2024 that delivers bright and clear Full HD images for home cinema viewing.
+Tablet USB 30 600 7 1 280 Slim and lightweight tablet that is ideal for entertainment and learning.
+TV HDMI 220 4 85 3 840 Premium TV from 2023 that delivers incredibly bright and rich colors thanks to quantum dot technology in 4K UHD.
+EBook HDMI 10 300 8 1 440 2023 e-book, designed for comfortable reading. The screen with warm backlight imitates paper, reducing eye strain.
+InteractiveDisplay DVI 50 1 500 19 1 600 2024 interactive display, designed for educational purposes and business presentations.
+Terminal USB 25 2 10 800 2024 multifunctional terminal, designed for workflow automation and customer service.
+
+
